@@ -1,1 +1,1 @@
-git log --oneline --graph --color --all --decorate
+git log --oneline --graph --color --all --decorate 
